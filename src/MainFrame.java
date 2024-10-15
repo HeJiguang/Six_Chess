@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.LinkedList;
 
+
 public final class MainFrame extends JFrame {
     private final int Size=1000;
     public final int Max=19;
